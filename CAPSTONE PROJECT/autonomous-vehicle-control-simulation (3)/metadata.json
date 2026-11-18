@@ -1,6 +1,0 @@
-{
-  "name": "Autonomous Vehicle Control Simulation",
-  "description": "Simulation demonstrating autonomous vehicle control using Object-Oriented Programming (Virtual Base Classes & Inheritance) and benchmarking against conventional modular programming.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
